@@ -1,0 +1,10 @@
+.env
+fastAPI.db
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.git
+.gitignore
